@@ -1,3 +1,4 @@
+MarVer1 PCR Protocol [![DOI](https://zenodo.org/badge/1445380319.svg)](https://doi.org/10.5281/zenodo.23941978)
 ---
 # MIOP terms
 methodology_category: Omics Analysis
